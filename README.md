@@ -37,7 +37,7 @@
  * Opening night/1st weekend/1st week box office gross
  * Social media
  * type/scale of distribution
- * # google searches
+ * #google searches
  * Wikipedia page views
  * Competition (concurrent releases)
  * DVD sales, etc
